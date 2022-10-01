@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/post_excel_combine_workbooks.iml" filepath="$PROJECT_DIR$/.idea/post_excel_combine_workbooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../post_excel_compare/.idea/post_excel_compare.iml" filepath="$PROJECT_DIR$/../post_excel_compare/.idea/post_excel_compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../post_excel_compare_notify/.idea/post_excel_compare_notify.iml" filepath="$PROJECT_DIR$/../post_excel_compare_notify/.idea/post_excel_compare_notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../post_excel_entry_gui/.idea/post_excel_entry_gui.iml" filepath="$PROJECT_DIR$/../post_excel_entry_gui/.idea/post_excel_entry_gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../post_python_testdata/.idea/post_python_testdata.iml" filepath="$PROJECT_DIR$/../post_python_testdata/.idea/post_python_testdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../post_python_testdata_second/.idea/post_python_testdata_second.iml" filepath="$PROJECT_DIR$/../post_python_testdata_second/.idea/post_python_testdata_second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../post_send_email/.idea/post_send_email.iml" filepath="$PROJECT_DIR$/../post_send_email/.idea/post_send_email.iml" />
     </modules>
   </component>
 </project>

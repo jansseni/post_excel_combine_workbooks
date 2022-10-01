@@ -2,7 +2,12 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="post_excel_compare" />
+    <orderEntry type="module" module-name="post_excel_compare_notify" />
+    <orderEntry type="module" module-name="post_excel_entry_gui" />
+    <orderEntry type="module" module-name="post_python_testdata" />
+    <orderEntry type="module" module-name="post_python_testdata_second" />
+    <orderEntry type="module" module-name="post_send_email" />
   </component>
 </module>

@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../post_excel_compare_notify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../post_excel_entry_gui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../post_python_testdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../post_python_testdata_second" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../post_send_email" vcs="Git" />
   </component>
 </project>
