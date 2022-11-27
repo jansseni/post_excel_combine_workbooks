@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34793707-2772-4f2b-90af-2656b5b9df9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/post_excel_combine_workbooks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_compare_notify/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_compare_notify/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_compare_notify/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_compare_notify/.idea/post_excel_compare_notify.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_entry_gui/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_entry_gui/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_entry_gui/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_entry_gui/.idea/post_excel_entry_gui.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_entry_gui/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../post_excel_entry_gui/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_excel_entry_gui/excel_entry_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../post_excel_entry_gui/excel_entry_gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata/.idea/post_python_testdata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata_second/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata_second/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata_second/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_python_testdata_second/.idea/post_python_testdata_second.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_send_email/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_send_email/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_send_email/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_send_email/.idea/post_send_email.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DFVN410A8NT1NQa61mxcqAeYiS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34793707-2772-4f2b-90af-2656b5b9df9b" name="Changes" comment="" />
+      <created>1660294775908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660294775908</updated>
+      <workItem from="1660294777447" duration="25000" />
+      <workItem from="1664615469496" duration="481000" />
+    </task>
+    <task id="LOCAL-00001" summary="update project configuration">
+      <created>1664615549360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664615549360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update project configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="update project configuration" />
+  </component>
+</project>
